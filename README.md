@@ -1,4 +1,4 @@
-# C-plus-Learning
+# C++-Learning
 My process of learning c++
 > This is my persona notes about the c++ cources!
 
